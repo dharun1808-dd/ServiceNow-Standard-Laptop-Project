@@ -23,12 +23,9 @@ ServiceNow Service Catalog and Flow Designer.
 ## Demo Video
 
 ## Demo Video
-### Member 1
+## Demo Video
 
-[Watch the Project Demo](https://youtu.be/E5eie0jQarA)
-
-### Member 2
-[Watch the Project Demo]https://youtu.be/uUe9o5S7918
+[Watch the Team Project Demo Playlist](https://www.youtube.com/playlist?list=PLINgpWw35irg)
 
 ## Screenshots
 
